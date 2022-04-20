@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 alpha warrior
+=======
+alpha
+>>>>>>> 474d587 (commit 1)
